@@ -1,0 +1,462 @@
+# EESchema Netlist Version 1.1 created  Wed 28 Aug 2013 07:03:35 PM MDT
+(
+ ( /521A25FE C1V8 C1 100uF/50V
+  ( 1 N-000007 )
+  ( 2 GND )
+ )
+ ( /521A25F5 C2V10 C2 1000uF/16V
+  ( 1 N-000001 )
+  ( 2 GND )
+ )
+ ( /521A2605 C1V8 C3 100uF
+  ( 1 +5V )
+  ( 2 GND )
+ )
+ ( /521975C5 D5 D1 1N5822
+  ( 1 GND )
+  ( 2 N-000002 )
+ )
+ ( /5219379B BR36 D2 BR36
+  ( 1 GND )
+  ( 2 /TriacDrivers/24VAC_RAIL2 )
+  ( 3 N-000007 )
+  ( 4 /TriacDrivers/24VAC_RAIL1 )
+ )
+ ( /521628AF/5216AE2A LED-3MM D3 LED
+  ( 1 N-000042 )
+  ( 2 N-000051 )
+ )
+ ( /521628AF/5216AE28 LED-3MM D4 LED
+  ( 1 N-000045 )
+  ( 2 N-000052 )
+ )
+ ( /521628AF/5218E484 LED-3MM D5 LED
+  ( 1 N-000028 )
+  ( 2 N-000031 )
+ )
+ ( /521628AF/5218E486 LED-3MM D6 LED
+  ( 1 N-000030 )
+  ( 2 N-000029 )
+ )
+ ( /521628AF/5218E4A5 LED-3MM D7 LED
+  ( 1 N-000035 )
+  ( 2 N-000025 )
+ )
+ ( /521628AF/5218E4A3 LED-3MM D8 LED
+  ( 1 N-000027 )
+  ( 2 N-000026 )
+ )
+ ( /521628AF/5218E4BA LED-3MM D9 LED
+  ( 1 N-000067 )
+  ( 2 N-000064 )
+ )
+ ( /521628AF/5218E4BC LED-3MM D10 LED
+  ( 1 N-000066 )
+  ( 2 N-000065 )
+ )
+ ( /521E8529 LED-3MM D11 LED
+  ( 1 N-000004 )
+  ( 2 GND )
+ )
+ ( /521936DC ELC15E101L L1 100uH
+  ( 1 N-000002 )
+  ( 2 N-000001 )
+ )
+ ( /521A254D B82111B L2 20uH
+  ( 1 N-000001 )
+  ( 2 +5V )
+ )
+ ( /5218FF94 TERMBLK_2 P1 CONN_2
+  ( 1 /TriacDrivers/24VAC_RAIL1 )
+  ( 2 /TriacDrivers/24VAC_RAIL2 )
+ )
+ ( /521A2E5C TERMBLK_2 P2 CONN_2
+  ( 1 /TriacDrivers/24VAC_RAIL2 )
+  ( 2 /TriacDrivers/24VAC_RAIL1 )
+ )
+ ( /521A2E54 PIN_ARRAY_2X1 P3 CONN_2
+  ( 1 N-000003 )
+  ( 2 N-000005 )
+ )
+ ( /521925A2 PIN_ARRAY_4x1 P4 CONN_4
+  ( 1 N-000003 )
+  ( 2 N-000005 )
+  ( 3 GND )
+  ( 4 +5V )
+ )
+ ( /521920E2 pin_array_3x2 P5 CONN_3X2
+  ( 1 GND )
+  ( 2 N-000019 )
+  ( 3 GND )
+  ( 4 N-000021 )
+  ( 5 GND )
+  ( 6 N-000020 )
+ )
+ ( /521924F4 PIN_ARRAY_2X1 P6 CONN_2
+  ( 1 N-000017 )
+  ( 2 N-000018 )
+ )
+ ( /521628AF/5218F918 TERMBLK_2 P7 CONN_2
+  ( 1 /TriacDrivers/24VAC_RAIL1 )
+  ( 2 N-000044 )
+ )
+ ( /521628AF/5218F94C TERMBLK_2 P8 CONN_2
+  ( 1 N-000049 )
+  ( 2 /TriacDrivers/24VAC_RAIL1 )
+ )
+ ( /521628AF/5218F93B TERMBLK_2 P9 CONN_2
+  ( 1 N-000059 )
+  ( 2 N-000061 )
+ )
+ ( /521628AF/5218F97D TERMBLK_2 P10 CONN_2
+  ( 1 N-000041 )
+  ( 2 N-000063 )
+ )
+ ( /521628AF/5218F981 TERMBLK_2 P11 CONN_2
+  ( 1 N-000034 )
+  ( 2 N-000062 )
+ )
+ ( /521923F3 R4 R1 3K
+  ( 1 +5V )
+  ( 2 N-000019 )
+ )
+ ( /52192228 R4 R2 3K
+  ( 1 +5V )
+  ( 2 N-000021 )
+ )
+ ( /5219222D R4 R3 3K
+  ( 1 +5V )
+  ( 2 N-000020 )
+ )
+ ( /52192221 R4 R4 3K
+  ( 1 +5V )
+  ( 2 N-000018 )
+ )
+ ( /521628AF/5216AE29 R4 R5 100
+  ( 1 GND )
+  ( 2 N-000051 )
+ )
+ ( /521628AF/5216AE27 R4 R6 100
+  ( 1 N-000052 )
+  ( 2 GND )
+ )
+ ( /521628AF/5218E485 R4 R7 100
+  ( 1 GND )
+  ( 2 N-000031 )
+ )
+ ( /521628AF/5218E487 R4 R8 100
+  ( 1 N-000029 )
+  ( 2 GND )
+ )
+ ( /521628AF/5218E4A4 R4 R9 100
+  ( 1 GND )
+  ( 2 N-000025 )
+ )
+ ( /521628AF/5218E4A2 R4 R10 100
+  ( 1 N-000026 )
+  ( 2 GND )
+ )
+ ( /521628AF/5218E4BB R4 R11 100
+  ( 1 GND )
+  ( 2 N-000064 )
+ )
+ ( /521628AF/5218E4BD R4 R12 100
+  ( 1 N-000065 )
+  ( 2 GND )
+ )
+ ( /521E855B R4 R13 330
+  ( 1 N-000004 )
+  ( 2 +5V )
+ )
+ ( /52197935 TO-220T-314D U1 LM2576TV
+  ( 1 N-000007 )
+  ( 2 N-000002 )
+  ( 3 GND )
+  ( 4 N-000001 )
+  ( 5 GND )
+ )
+ ( /5216AFBB DIP-18__300 U2 MCP23008
+  ( 1 N-000005 )
+  ( 2 N-000003 )
+  ( 3 N-000019 )
+  ( 4 N-000021 )
+  ( 5 N-000020 )
+  ( 6 N-000018 )
+  ( 7 ? )
+  ( 8 N-000017 )
+  ( 9 GND )
+  ( 10 /TriacDrivers/TriacCtrl1 )
+  ( 11 /TriacDrivers/TriacCtrl2 )
+  ( 12 /TriacDrivers/TriacCtrl3 )
+  ( 13 /TriacDrivers/TriacCtrl4 )
+  ( 14 /TriacDrivers/TriacCtrl5 )
+  ( 15 /TriacDrivers/TriacCtrl6 )
+  ( 16 /TriacDrivers/TriacCtrl7 )
+  ( 17 /TriacDrivers/TriacCtrl8 )
+  ( 18 +5V )
+ )
+ ( /521628AF/5216AE2C DIP-8__300 U3 VO2223A
+  ( 1 N-000042 )
+  ( 2 /TriacDrivers/TriacCtrl1 )
+  ( 3 ? )
+  ( 4 ? )
+  ( 5 ? )
+  ( 6 N-000044 )
+  ( 8 /TriacDrivers/24VAC_RAIL2 )
+ )
+ ( /521628AF/5216AE2B DIP-8__300 U4 VO2223A
+  ( 1 N-000045 )
+  ( 2 /TriacDrivers/TriacCtrl8 )
+  ( 3 ? )
+  ( 4 ? )
+  ( 5 ? )
+  ( 6 N-000049 )
+  ( 8 /TriacDrivers/24VAC_RAIL2 )
+ )
+ ( /521628AF/5218E482 DIP-8__300 U5 VO2223A
+  ( 1 N-000028 )
+  ( 2 /TriacDrivers/TriacCtrl2 )
+  ( 3 ? )
+  ( 4 ? )
+  ( 5 ? )
+  ( 6 N-000059 )
+  ( 8 /TriacDrivers/24VAC_RAIL2 )
+ )
+ ( /521628AF/5218E483 DIP-8__300 U6 VO2223A
+  ( 1 N-000030 )
+  ( 2 /TriacDrivers/TriacCtrl7 )
+  ( 3 ? )
+  ( 4 ? )
+  ( 5 ? )
+  ( 6 N-000063 )
+  ( 8 /TriacDrivers/24VAC_RAIL2 )
+ )
+ ( /521628AF/5218E4A7 DIP-8__300 U7 VO2223A
+  ( 1 N-000035 )
+  ( 2 /TriacDrivers/TriacCtrl3 )
+  ( 3 ? )
+  ( 4 ? )
+  ( 5 ? )
+  ( 6 N-000061 )
+  ( 8 /TriacDrivers/24VAC_RAIL2 )
+ )
+ ( /521628AF/5218E4A6 DIP-8__300 U8 VO2223A
+  ( 1 N-000027 )
+  ( 2 /TriacDrivers/TriacCtrl6 )
+  ( 3 ? )
+  ( 4 ? )
+  ( 5 ? )
+  ( 6 N-000041 )
+  ( 8 /TriacDrivers/24VAC_RAIL2 )
+ )
+ ( /521628AF/5218E4B8 DIP-8__300 U9 VO2223A
+  ( 1 N-000067 )
+  ( 2 /TriacDrivers/TriacCtrl4 )
+  ( 3 ? )
+  ( 4 ? )
+  ( 5 ? )
+  ( 6 N-000034 )
+  ( 8 /TriacDrivers/24VAC_RAIL2 )
+ )
+ ( /521628AF/5218E4B9 DIP-8__300 U10 VO2223A
+  ( 1 N-000066 )
+  ( 2 /TriacDrivers/TriacCtrl5 )
+  ( 3 ? )
+  ( 4 ? )
+  ( 5 ? )
+  ( 6 N-000062 )
+  ( 8 /TriacDrivers/24VAC_RAIL2 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ CP*
+ SM*
+$endlist
+$component C2
+ CP*
+ SM*
+$endlist
+$component C3
+ CP*
+ SM*
+$endlist
+$component D1
+ D?
+ S*
+$endlist
+$component D3
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D4
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D5
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D6
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D7
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D8
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D9
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D10
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D11
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R5
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R6
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R7
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R8
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R9
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R10
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R11
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R12
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R13
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$endfootprintlist
+}
